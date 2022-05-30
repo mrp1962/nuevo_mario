@@ -9,9 +9,6 @@ Pueden hacer lo que quieran...
 ## Modificar desde github
 modifique de nuevo
 
-<<<<<<< HEAD
 ## otro cambio ++++++++++
-=======
 ## otro cambio bbbbb
->>>>>>> 806db2c28b2744d608b72cfefe5205dfa870a1d8
 
